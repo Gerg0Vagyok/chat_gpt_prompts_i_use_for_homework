@@ -1,0 +1,114 @@
+Prompt:
+
+Először végezd el a zárojelbe lévő összevonásokat, majd szorzásokat!
+
+a)  4(5a - 3b + 11a - 9ab + 7b - 9a + 5ab) = 
+
+b) 9c(3 - 4d + 5 + d) + 3d(2c + 11 - 7c - 27) = 
+
+c) 5(x + xy + 6x) - (8xy + 7x - 3xy) + 7x(-5 + 10y + 11) = 
+
+d) (-2)(xy + 8x - 3yx + 1,5xy) - x(-6y + 7 - 8y + 9) =
+
+
+
+
+
+Anwser: 
+
+a) Let's simplify each expression step by step:
+
+a) 4(5a - 3b + 11a - 9ab + 7b - 9a + 5ab)
+
+First, combine like terms within the parentheses:
+
+(5a + 11a - 9a) = 7a
+(-3b + 7b) = 4b
+(-9ab + 5ab) = -4ab
+
+So, the expression becomes:
+
+4(7a + 4b - 4ab)
+
+Now, distribute the 4 outside the parentheses:
+
+4 * 7a + 4 * 4b - 4 * 4ab
+
+This simplifies to:
+
+28a + 16b - 16ab
+
+b) 9c(3 - 4d + 5 + d) + 3d(2c + 11 - 7c - 27)
+
+First, simplify each part within the parentheses:
+
+9c(3 - 4d + 5 + d) = 9c(8 - 3d)
+3d(2c + 11 - 7c - 27) = 3d(11 - 5c)
+
+Now, let's distribute and simplify each part:
+
+9c * (8 - 3d) + 3d * (11 - 5c)
+
+72c - 27cd + 33d - 15cd
+
+Combine like terms:
+
+72c + 33d - 27cd - 15cd
+
+Now, combine the last two terms:
+
+72c + 33d - 42cd
+
+c) 5(x + xy + 6x) - (8xy + 7x - 3xy) + 7x(-5 + 10y + 11)
+
+First, simplify each part within the parentheses:
+
+5(x + xy + 6x) = 5x + 5xy + 30x
+-(8xy + 7x - 3xy) = -8xy - 7x + 3xy
+7x(-5 + 10y + 11) = -35x + 70xy + 77x
+
+Now, let's combine and simplify:
+
+(5x + 5xy + 30x) - (-8xy - 7x + 3xy) + (-35x + 70xy + 77x)
+
+Combine like terms:
+
+(5x + 30x + 7x + 35x) + (5xy - 8xy + 3xy + 70xy) + (77x)
+
+Combine like terms further:
+
+77x + 100xy
+
+d) (-2)(xy + 8x - 3yx + 1.5xy) - x(-6y + 7 - 8y + 9)
+
+First, simplify each part within the parentheses:
+
+(-2)(xy + 8x - 3yx + 1.5xy) = -2xy - 16x + 6yx - 3xy
+x(-6y + 7 - 8y + 9) = -6xy + 7x - 8xy + 9x
+
+Now, let's combine and simplify:
+
+(-2xy - 16x + 6yx - 3xy) - (-6xy + 7x - 8xy + 9x)
+
+Combine like terms:
+
+-2xy - 16x + 6yx - 3xy + 6xy - 7x + 8xy - 9x
+
+Combine like terms further:
+
+-16x + 6yx - 7x - 9x
+
+Now, combine the x terms and the constant terms:
+
+-32x - x(6y + 7 + 9)
+
+Simplify further:
+
+-32x - x(6y + 16)
+
+So, the simplified expressions are:
+
+a) 28a + 16b - 16ab
+b) 72c + 33d - 42cd
+c) 77x + 100xy
+d) -32x - x(6y + 16)
